@@ -8,7 +8,7 @@ Turn a fresh Arch installation into my fully-configured, beautiful, and powerful
 The focus is simply shifted from web development to low-level systems and security work.
 It's less about building web apps and more about understanding how things tick.
 
-> **Note:** This project is based on Omarchy. The original [Omarchy Manual]((https://manuals.omamix.org/2/the-omarchy-manual)) may be a useful reference for the base system setup, but be aware that Omalarkey contains different tools and configurations specific to security work.
+> **Note:** This project is based on Omarchy. The original [Omarchy Manual](https://manuals.omamix.org/2/the-omarchy-manual) may be a useful reference for the base system setup, but be aware that Omalarkey contains different tools and configurations specific to security work.
 
 > **Warning:** This is intended to be run on a **fresh** Arch Linux installation. Running this on an existing system may overwrite your configuration files. This is my personal setup; use at your own risk.
 
